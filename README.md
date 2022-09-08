@@ -16,14 +16,21 @@
 
 - 2. Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos!
 
-Repositório criado para as aulas de "Consumindo uma API de Filmes com Java" e "Gerando figurinhas para Whatsapp" da Imersão Java da Alura.
+- 3. Melhorar o código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
+
+Repositório criado para as aulas de "Consumindo uma API de Filmes com Java", "Gerando figurinhas para Whatsapp" e "Ligando as pontas, refatoração e orientação a objetos" da Imersão Java da Alura.
 
 ## 📚 Tópicos abordados
 
 - Java
-- API IMDb
+- [API IMDb](https://imdb-api.com/)
 - Json
 - HttpRequest
 - REGEX
+- BufferedImage
+- Graphic2D
+- InputStream
+- [API da NASA](https://api.nasa.gov/)
+- [API da Foto Astronômica do Dia](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
 ---
