@@ -18,18 +18,30 @@
 
 - 3. Melhorar o código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
 
-Repositório criado para as aulas de "Consumindo uma API de Filmes com Java", "Gerando figurinhas para Whatsapp" e "Ligando as pontas, refatoração e orientação a objetos" da Imersão Java da Alura.
+- 4. Construir uma API REST para expor nosso conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
 
-## 📚 Tópicos abordados
+
+
+Repositório criado para as seguintes aulas da Imersão Java da Alura: 
+
+- "Consumindo uma API de Filmes com Java";
+- "Gerando figurinhas para Whatsapp";
+- "Ligando as pontas, refatoração e orientação a objetos";
+- "Criando nossa própria API com Spring";
+
+## 📚 Tecnologias utilizadas
 
 - Java
-- [API IMDb](https://imdb-api.com/)
 - Json
 - HttpRequest
 - REGEX
 - BufferedImage
 - Graphic2D
 - InputStream
+- Spring Framework
+- [Spring Initializr]
+- Banco de Dados NoSQL
+- [API IMDb](https://imdb-api.com/)
 - [API da NASA](https://api.nasa.gov/)
 - [API da Foto Astronômica do Dia](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
