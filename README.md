@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/91534b67-590e-4a4d-b17f-3bcd3f94ffbd"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/91534b67-590e-4a4d-b17f-3bcd3f94ffbd.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/05519d98-12cc-4a7f-9257-6b44ca84348f"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/05519d98-12cc-4a7f-9257-6b44ca84348f.svg" alt="wakatime"></a>
 </p>
 
 ## 💻 Projetos
@@ -20,14 +20,15 @@
 
 - 4. Construir uma API REST para expor nosso conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
 
+- 5. Tornar nossa aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
 
-
-Repositório criado para as seguintes aulas da Imersão Java da Alura: 
+Repositório criado para as seguintes aulas da Imersão Java da Alura:
 
 - "Consumindo uma API de Filmes com Java";
 - "Gerando figurinhas para Whatsapp";
 - "Ligando as pontas, refatoração e orientação a objetos";
 - "Criando nossa própria API com Spring";
+- "Publicando nossa API no Cloud".
 
 ## 📚 Tecnologias utilizadas
 
@@ -39,8 +40,11 @@ Repositório criado para as seguintes aulas da Imersão Java da Alura:
 - Graphic2D
 - InputStream
 - Spring Framework
-- [Spring Initializr]
+- Spring Initializr
+- Postman
+- MongoDB
 - Banco de Dados NoSQL
+- Heroku
 - [API IMDb](https://imdb-api.com/)
 - [API da NASA](https://api.nasa.gov/)
 - [API da Foto Astronômica do Dia](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
