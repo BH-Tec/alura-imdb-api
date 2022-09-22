@@ -3,14 +3,17 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>
 </p>
 
 <p align="center">
 <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/05519d98-12cc-4a7f-9257-6b44ca84348f"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/05519d98-12cc-4a7f-9257-6b44ca84348f.svg" alt="wakatime"></a>
 </p>
 
-## 💻 Projetos
+## 💻 Projeto
+
+Repositório criado para as seguintes aulas da Imersão Java da Alura:
 
 - 1. Aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
 
@@ -22,15 +25,7 @@
 
 - 5. Tornar nossa aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
 
-Repositório criado para as seguintes aulas da Imersão Java da Alura:
-
-- "Consumindo uma API de Filmes com Java";
-- "Gerando figurinhas para Whatsapp";
-- "Ligando as pontas, refatoração e orientação a objetos";
-- "Criando nossa própria API com Spring";
-- "Publicando nossa API no Cloud".
-
-## 📚 Tecnologias utilizadas
+## 🚀 Tecnologias
 
 - Java
 - Json
